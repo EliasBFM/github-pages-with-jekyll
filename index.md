@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Elias Fisher-Marshall"
 ---
 
-I'm glad you are here. I plan to talk about ...
+The edge of the internet 
